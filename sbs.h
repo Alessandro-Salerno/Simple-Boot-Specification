@@ -79,7 +79,7 @@ struct SimpleBootRootSystemDescriptor {
 
 struct SimpleBootInformationTable {
     // Standard Information
-    const char*                              _Signature = SBS_LATEST;   // SBS Signature
+    const char*                              _Signature;   // SBS Signature
 
     // Bootloader Information
     const char*                              _BootloaderName;           // Name of the Bootloader
