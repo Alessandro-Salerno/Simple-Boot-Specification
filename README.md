@@ -1,3 +1,6 @@
+> [!WARNING]
+> The Simple Boot Specification was meant to be part of the [OpenBIT Specifications](https://github.com/OpenBitt/OpenBit-Specs) (a collection of OS specifications to be used by operating systems developed on the OpenBIT Discord server which never saw the light of day). SBS was initially adopted by [SalernOS](https://github.com/Alessandro-Salerno/SalernOS), but was later dropped due to fundamental design flaws. In its current state, SBS **should not be used in ANY capacity**.
+
 ## Simple Boot Specification
 The Simple Boot Specification is, as the name implies, a stripped-down standard for Hobby OS Bootloaders.
 The Simple Boot Specification governs how information is exchanged between the loader and the OS Kernel.
